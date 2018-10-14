@@ -3,62 +3,41 @@
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":2,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":3,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":4,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":5,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":6,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 },{
 "id":7,
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null,
-"unauthorizedRequest": false,
-"__wrapped": true,
-"__traceId": "9da6352365bea2da"
+"error": null
 }]
