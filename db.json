@@ -1,25 +1,9 @@
-[{
-"id":1,
+{
 "result": "Finalized",
 "targetUrl": null,
 "success": true,
-"error": null
-},{
-"id":2,
-"result": "Finalized",
-"targetUrl": null,
-"success": true,
-"error": null
-},{
-"id":3,
-"result": "Finalized",
-"targetUrl": null,
-"success": true,
-"error": null
-},{
-"id":4,
-"result": "Finalized",
-"targetUrl": null,
-"success": true,
-"error": null
-}]
+"error": null,
+"unauthorizedRequest": false,
+"__wrapped": true,
+"__traceId": "9da6352365bea2da"
+}
